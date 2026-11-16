@@ -1,0 +1,12 @@
+[project]
+name = "habit-tracker"
+version = "1.0.0"
+description = "Трекер физической активности с цепочками привычек"
+requires-python = ">=3.10"
+dependencies = ["flet==0.28.3"]
+
+[tool.flet]
+org = "kz.student"
+product = "Трекер активности"
+company = "Student"
+copyright = "Copyright (C) 2026"
